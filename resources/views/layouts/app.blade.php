@@ -71,7 +71,7 @@
 
     {{-- Footer --}}
     <footer class="main-footer">
-        <strong>Tarea 9</strong> - Desarrollado por <strong>Alan Santiago</strong> | Web App Design
+        <strong>Tarea 9</strong> - Developed by <strong>Alan Santiago</strong> | Web App Design
     </footer>
 
 </div>
